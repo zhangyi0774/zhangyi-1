@@ -5,3 +5,8 @@ var obj = {
 	age:23,
 	height:56
 }
+var obj2 = {
+	name:'aotuman',
+	tall:20,
+	height:2000
+}
